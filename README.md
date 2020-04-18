@@ -22,7 +22,7 @@ In this project i will explore the following questions:
 The following files are present in the repository:
 * **AirBnBBoston.ipynb**: jupyter notebook with the code
 * **AirBnBBoston.html**: html file of the jupyter notebook.
-* **calendar.csv, listings.csv, reviews.csv**: Data files.
+* **calendar.csv, listings.csv, reviews.csv**: Data files inside **boston.zip**.
 
 ## Summary of Results:
 Through the process of Crisp-DM following results were obtained.
